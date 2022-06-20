@@ -1,6 +1,7 @@
 package lesson3.account;
 
 class Account {
+
 	private final static double DEFAULT_BALANCE = 0.0;
 	private double balance;
 	private AccountType acctType;
